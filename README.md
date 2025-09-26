@@ -1,1 +1,1 @@
-# School-event-management-system
+# School-event-system
